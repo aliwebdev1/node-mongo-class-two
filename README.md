@@ -1,0 +1,1 @@
+# node-mongo-class-two
